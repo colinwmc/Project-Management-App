@@ -1,0 +1,2 @@
+# Project-Management-App
+An app developed for a business advisory group in Austin, Texas. Allows team members to (as admins) to view, add, and edit entries to their database as well as chart and analyze data. Contains database tables to organize projects, users, contacts, and project groups. Also allows non-management users to log on to view available information, while denying them the ability to alter the database. 
